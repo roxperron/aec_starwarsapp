@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/006AEC-starwarsap/static/css/main.c49ef4fc.css",
+    "main.js": "/006AEC-starwarsap/static/js/main.fc85e9e4.js",
+    "static/js/787.b1b501c9.chunk.js": "/006AEC-starwarsap/static/js/787.b1b501c9.chunk.js",
+    "index.html": "/006AEC-starwarsap/index.html",
+    "main.c49ef4fc.css.map": "/006AEC-starwarsap/static/css/main.c49ef4fc.css.map",
+    "main.fc85e9e4.js.map": "/006AEC-starwarsap/static/js/main.fc85e9e4.js.map",
+    "787.b1b501c9.chunk.js.map": "/006AEC-starwarsap/static/js/787.b1b501c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49ef4fc.css",
+    "static/js/main.fc85e9e4.js"
+  ]
+}

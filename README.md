@@ -1,0 +1,1 @@
+The Star Wars App is the final project of the Programmation #2 course. This is an app that displays a list of Star Wars movies, characters, starships, and vehicles sourced from https://swapi.dev/. The project involved the use of the following technologies: React, React Router, and Authentication.
